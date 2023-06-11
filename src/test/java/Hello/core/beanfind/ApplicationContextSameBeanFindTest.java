@@ -1,9 +1,7 @@
-package Hello.core.beanfind;
+package hello.core.beanfind;
 
-import Hello.core.AppConfig;
-import Hello.core.discount.DiscountPolicy;
-import Hello.core.member.MemberRepository;
-import Hello.core.member.MemoryMemberRepository;
+import hello.core.member.MemberRepository;
+import hello.core.member.MemoryMemberRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.NoUniqueBeanDefinitionException;

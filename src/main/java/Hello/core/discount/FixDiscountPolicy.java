@@ -1,7 +1,7 @@
-package Hello.core.discount;
+package hello.core.discount;
 
-import Hello.core.member.Grade;
-import Hello.core.member.Member;
+import hello.core.member.Grade;
+import hello.core.member.Member;
 
 public class FixDiscountPolicy implements  DiscountPolicy{
     private  int discountFixAmount = 1000;

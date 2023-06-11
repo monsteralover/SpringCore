@@ -1,10 +1,10 @@
-package Hello.core;
+package hello.core;
 
-import Hello.core.member.Grade;
-import Hello.core.member.Member;
-import Hello.core.member.MemberService;
-import Hello.core.order.Order;
-import Hello.core.order.OrderService;
+import hello.core.member.Grade;
+import hello.core.member.Member;
+import hello.core.member.MemberService;
+import hello.core.order.Order;
+import hello.core.order.OrderService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

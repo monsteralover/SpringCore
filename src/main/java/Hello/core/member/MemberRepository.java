@@ -1,4 +1,4 @@
-package Hello.core.member;
+package hello.core.member;
 
 public interface MemberRepository {
 
